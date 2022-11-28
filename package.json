@@ -29,7 +29,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://codemaker2015.vercel.app/personality-test",
+  "homepage": ".",
   "devDependencies": {
     "gh-pages": "^1.0.0"
   }
